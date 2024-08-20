@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e5a60ad4026de349ad2bb3a0a760c01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameDirector: {instanceID: 0}
+  - diamondManager: {instanceID: 0}
+  - placeHoldersParent: {instanceID: 0}
+  - enemyPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
